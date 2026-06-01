@@ -1,0 +1,6 @@
+GitHub Learning Notes
+
+Day 1:
+- Created my first repository
+- Learned about README.md
+- Added files to GitHub
